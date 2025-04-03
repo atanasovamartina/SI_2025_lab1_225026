@@ -1,0 +1,15 @@
+*   37b8af2 (HEAD -> master, origin/master, origin/HEAD) Merge branch '1-remove-a-task-by-name'
+|\
+| * 6435b9a (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implemented function for removing a task by its name
+* |   3641042 Merge pull request #15 from atanasovamartina/2-find-all-completed-tasks
+|\ \
+| * | 927cb71 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implemented function for finding all the completed tasks
+| |/
+* |   be8308d Merge pull request #16 from atanasovamartina/3-list-tasks-sorted-by-name
+|\ \
+| |/
+|/|
+| * ab940c2 (origin/3-list-tasks-sorted-by-name, 3-list-tasks-sorted-by-name) Implemented function for sorting tasks by name
+|/
+* b8c2317 Add starter code
+* b59a166 Initial commit

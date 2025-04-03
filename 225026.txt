@@ -1,0 +1,30 @@
+git fetch origin
+git pull
+git checkout 1-remove-a-task-by-name
+git log
+notepad SI2025Lab1Main.java
+git status
+git add SI2025Lab1Main.java
+git commit -m 'Implemented function that removes a task by its name'
+git push -u origin 1-remove-a-task-by-name
+git checkout 2-find-all-completed-tasks
+git status
+git add SI2025Lab1Main.java
+git status
+ git commit -m 'Implemented the function for finding all the completed tasks'
+git push -u origin 2-find-all-completed-tasks
+git log --oneline
+git checkout 3-list-tasks-sorted-by-name
+git status
+git add SI2025Lab1Main.java
+git status
+git commit -m 'Implemented the function for sorting the tasks by name'
+git status
+git log --oneline
+git push -u origin 3-list-tasks-sorted-by-name
+git diff master
+notepad logs.txt
+git log --oneline --graph --all
+git add logs.txt
+notepad 225026.txt
+
